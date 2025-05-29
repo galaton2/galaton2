@@ -58,23 +58,51 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 
 ## 🚀 Notable Projects
 
-### 🛰️ [ONTON](https://t.me/ontonlive)
-**Role**: Community & Narrative Lead
-- Managed user onboarding, EN & RU moderation, and support workflows
-- Designed and ran Play-to-Win events with SBT rewards
-- Coordinated community partnerships and ecosystem content
-
-### 🧠 [Arion Dbot](https://t.me/Arion_dbot)
-**Role**: Founder & Developer
-- Telegram utility bot for buying Stars & Premium using TON
-- NFT-based discounts, referral system, TON payment integration
-- Admin panel, multi-language support, high automation
-
-### 🧩 TonPunks & PocketFi
+### 🧩 [PocketFi](https://t.me/Pocketfi)
 **Role**: Community & Tech Support
-- Managed TG support for Punks & DeFi tools
-- Created and maintained FAQ, relayed feedback to dev teams
-- Ensured onboarding and resolved tech issues
+- Supported users with TON-based DeFi tools and Telegram integrations
+- Handled user questions, infrastructure monitoring, and feedback collection
+- Helped deploy new features and maintain product clarity
+
+### 🧠 [TonPunks](https://t.me/tonpunks) / [Punk City](https://t.me/punkton)
+**Role**: Community Specialist
+- Provided technical and onboarding support in EN & RU chats
+- Maintained support documentation, resolved user issues
+- Actively engaged with the community to maintain positive tone
+
+---
+
+### 🛰️ [ONTON](https://t.me/ontonlive)
+**Role**: Ecosystem Growth & Community Lead
+- Led moderation, onboarding, and support systems in EN & RU
+- Organized Play-to-Win mini-games and issued SBT rewards
+- Wrote announcements, structured pinned content, and ran campaigns
+- Built partnerships and engaged new communities
+
+---
+
+### 🔧 [Arion Dbot](https://t.me/Arion_Dbot)
+**Role**: Founder & Developer
+- Created a Telegram utility bot to buy Stars, Premium & numbers via TON
+- Integrated NFTs, TON payments, referral bonuses, and admin dashboard
+- Designed for full automation, multilingual users, and real-time delivery
+
+### 🎮 [Kirby's Magic Land](https://t.me/kirbyflybot)
+**Role**: Game Creator
+- Built an arcade-style Telegram game with Firebase leaderboard
+- Users tap to collect, compete, and track progress in real-time
+- Weekly events, rewards, and community interaction
+
+### 🌀 [Glitch](https://fixglitch.xyz/)
+**Role**: Concept Creator & Strategist
+- Web3 meme token with a GameFi twist and NFT ecosystem
+- Designed volatility mechanics, NFT staking, and burn events
+- Created narrative, community structure, and reward pools
+
+### 🌈 [Big Kirby](https://t.me/bigKirby)
+**Role**: Meme Community Builder
+- Created lighthearted Telegram space for Kirby-themed memes and fun
+- Managed content flow, moderation, and event ideas
 
 ---
 
@@ -87,8 +115,11 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 
 ## 📬 Contacts
 
-- 📫 Email: galaxyton2@gmail.com
-- 🟦 Telegram: [@TgBarry](https://t.me/TgBarry)
+- 📧 **Email**: [galaxyton2@gmail.com](mailto:galaxyton2@gmail.com)  
+  ✉️ Feel free to reach out for collaboration, questions, or project ideas
+
+- 💬 **Telegram**: [@TgBarry](https://t.me/TgBarry)  
+  🗣️ Available for chat, support, and ecosystem discussion
 
 ---
 
