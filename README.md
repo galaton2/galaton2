@@ -72,20 +72,22 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 **Role**: Ecosystem Growth & Community Lead & Partnership Manager
 
 ---
-<h1 style="color:#7c46a3;text-align:center;margin:8px 0 0 0">Leaderboard</h1>
+<h1 style="color:#7c46a3;text-align:center;margin:8px 0 0 0">My Projects</h1>
 
 ### 🔧 [Arion Dbot](https://t.me/Arion_Dbot)
 **Role**: Founder & Developer
-- Created a Telegram utility bot to buy Stars, Premium & numbers via TON
-- Integrated NFTs, TON payments, referral bonuses, and admin dashboard
-- Designed for full automation, multilingual users, and real-time delivery
+
+---
 
 ### 🎮 [Kirby's Magic Land](https://t.me/kirbyflybot)
 **Role**: Game Creator
 
+---
 
 ### 🌀 [Glitch](https://fixglitch.xyz/)
 **Role**: Web Developer
+
+---
 
 ### 🌈 [Big Kirby](https://t.me/bigKirby)
 **Role**: Meme Community Builder & Web Developer
