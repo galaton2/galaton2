@@ -11,19 +11,6 @@ I lead Web3 communities, automate routine with bots, build bridges between proje
 
 ---
 
-## 🚀 What I Do
-
-- **Build & moderate Web3/TON communities**  
-  — 20,000+ users onboarded, <b>0% toxicity</b>, high engagement  
-- **Support users and projects**  
-  — Reduced ticket load 3x by smart FAQ and automations  
-- **Develop Telegram bots and tools**  
-  — Payments, NFTs, admin dashboards, multi-lang, security  
-- **Lead Play-to-Win (P2W) & GameFi events**  
-  — 10+ successful events, SBT & NFT rewards for winners  
-- **Create partnerships and collabs**  
-  — Brought 10+ partners into TON and launched joint promos
-
 ---
 
 ## 🛠️ Skills & Tech
