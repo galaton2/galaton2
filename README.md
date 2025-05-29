@@ -11,7 +11,10 @@
 
 ## 🧠 About Me
 
-I'm a multilingual Web3 community expert with deep experience across the TON ecosystem. My work bridges user support, moderation, automation, and ecosystem growth.
+Web3 and crypto enthusiast with solid communication and community‑building
+skills. Experienced in moderating Telegram groups, supporting users, and driving
+partnerships across the TON ecosystem; coding Telegram bots is a side passion
+that helps automate and scale projects.
 
 > From moderating chats to launching gamified bots and events, I thrive at the intersection of people and products.
 
