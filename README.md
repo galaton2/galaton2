@@ -24,11 +24,13 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 
 ## 🔧 Key Skills
 
-| Community Management | Telegram Automation | Support Systems |
-|:-------------------- |:------------------ |:---------------|
-| • Moderating EN/RU chats<br>• Guiding new users<br>• Enforcing standards<br>• Collecting feedback | • Building bots for payments & onboarding<br>• P2W mini-games & referral systems<br>• Automation: rewards, admin tools | • Fast user support<br>• Writing FAQs<br>• Designing onboarding |
-| Content & Strategy | Dev & Tools | Partnerships |
-| • Announcements & updates<br>• Brand tone<br>• Engaging content (memes/guides) | • HTML, CSS, JS, Python<br>• Firebase, GitHub, APIs<br>• Mini-games & web tools | • Project outreach<br>• Joint campaigns, AMAs<br>• Cross-community events |
+| **Community Management** | **Telegram Automation** | **Support Systems** |
+|:-------------------------|:------------------------|:--------------------|
+| • Moderating EN/RU chats<br>• Guiding new users<br>• Enforcing standards<br>• Collecting feedback | • Building bots for payments, onboarding, and user engagement<br>• Gamified P2W mini-games & referral systems<br>• Automating rewards (SBT/NFT), support, and admin tools | • Fast user support<br>• Writing and maintaining FAQs<br>• Designing onboarding to retain users |
+
+| **Content & Strategy** | **Dev & Tools** | **Partnerships** |
+|:-----------------------|:----------------|:-----------------|
+| • Announcements & updates<br>• Brand voice & memes<br>• Structured posts and guides | • HTML, CSS, JS, Python<br>• Firebase, GitHub, APIs<br>• Simple games & web tools | • Project outreach<br>• Joint campaigns & AMAs<br>• Partner onboarding & cross-community growth |
 
 
 ## 🚀 Experience
