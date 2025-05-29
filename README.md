@@ -24,37 +24,12 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 
 ## 🔧 Key Skills
 
-- **Community Management**:  
-  • Moderating EN/RU chats, guiding new users, and resolving escalated issues  
-  • Creating a safe, welcoming space and enforcing community standards  
-  • Collecting user feedback to help shape product decisions
+| Community Management | Telegram Automation | Support Systems |
+|:-------------------- |:------------------ |:---------------|
+| • Moderating EN/RU chats<br>• Guiding new users<br>• Enforcing standards<br>• Collecting feedback | • Building bots for payments & onboarding<br>• P2W mini-games & referral systems<br>• Automation: rewards, admin tools | • Fast user support<br>• Writing FAQs<br>• Designing onboarding |
+| Content & Strategy | Dev & Tools | Partnerships |
+| • Announcements & updates<br>• Brand tone<br>• Engaging content (memes/guides) | • HTML, CSS, JS, Python<br>• Firebase, GitHub, APIs<br>• Mini-games & web tools | • Project outreach<br>• Joint campaigns, AMAs<br>• Cross-community events |
 
-- **Telegram Automation**:  
-  • Developing bots to handle payments, onboarding, and user interactions  
-  • Gamifying experience with P2W mini-games and referral systems  
-  • Automating rewards (SBT/NFT), support flows, and admin tools
-
-- **Support Systems**:  
-  • Responding to user inquiries quickly and clearly across channels  
-  • Writing and maintaining FAQ sections to reduce repetitive questions  
-  • Designing smooth onboarding experiences to retain new users
-
-- **Content & Strategy**:  
-  • Crafting announcements, pinned messages, and structured updates  
-  • Maintaining consistent brand voice across posts and media  
-  • Writing memes, guides, and interactive content to boost engagement
-
-- **Dev & Tools**:  
-  • Building with HTML, CSS, JavaScript, and Python for web and bots  
-  • Working with Firebase, GitHub, Realtime DB, and APIs  
-  • Creating simple games and tools for Web3 community interaction
-
-- **Partnerships**:  
-  • Reaching out to projects, coordinating joint campaigns and AMAs  
-  • Managing partner onboarding and setting up cross-community events  
-  • Identifying collaboration opportunities to grow the ecosystem
-
----
 
 ## 🚀 Experience
 
@@ -111,12 +86,3 @@ I’ve led community strategies, automated support using custom Telegram bots, a
   🗣️ Available for chat, support, and ecosystem discussion
 
 ---
-
-## 📈 GitHub Stats
-
-![Barry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username-here&layout=compact&theme=tokyonight)
-
----
-
-> 💬 *Let’s build powerful Web3 tools and vibrant communities — together.*
