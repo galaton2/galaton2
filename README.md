@@ -1,8 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/galaton2" width="150" style="border-radius:50%;" alt="Barry" />
+</p>
 
 # 👋 Hey, I'm Barry
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/galaton2" width="120" style="border-radius:50%;" alt="Barry" />
-</p>
+
 ### Web3 Community Lead | Telegram Bot Developer | Ecosystem Builder | Support Strategist
 
 
