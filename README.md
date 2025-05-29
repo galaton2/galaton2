@@ -59,27 +59,19 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 ## 🚀 Notable Projects
 
 ### 🧩 [PocketFi](https://t.me/Pocketfi)
-**Role**: Community & Tech Support
-- Supported users with TON-based DeFi tools and Telegram integrations
-- Handled user questions, infrastructure monitoring, and feedback collection
-- Helped deploy new features and maintain product clarity
+**Role**: Community & Tech Support & Moderator
+---
 
 ### 🧠 [TonPunks](https://t.me/tonpunks) / [Punk City](https://t.me/punkton)
-**Role**: Community Specialist
-- Provided technical and onboarding support in EN & RU chats
-- Maintained support documentation, resolved user issues
-- Actively engaged with the community to maintain positive tone
+**Role**: Community Manager & Tech Support & Moderator 
 
 ---
 
 ### 🛰️ [ONTON](https://t.me/ontonlive)
-**Role**: Ecosystem Growth & Community Lead
-- Led moderation, onboarding, and support systems in EN & RU
-- Organized Play-to-Win mini-games and issued SBT rewards
-- Wrote announcements, structured pinned content, and ran campaigns
-- Built partnerships and engaged new communities
+**Role**: Ecosystem Growth & Community Lead & Partnership Manager
 
 ---
+<h1 style="color:#7c46a3;text-align:center;margin:8px 0 0 0">Leaderboard</h1>
 
 ### 🔧 [Arion Dbot](https://t.me/Arion_Dbot)
 **Role**: Founder & Developer
@@ -89,20 +81,13 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 
 ### 🎮 [Kirby's Magic Land](https://t.me/kirbyflybot)
 **Role**: Game Creator
-- Built an arcade-style Telegram game with Firebase leaderboard
-- Users tap to collect, compete, and track progress in real-time
-- Weekly events, rewards, and community interaction
+
 
 ### 🌀 [Glitch](https://fixglitch.xyz/)
-**Role**: Concept Creator & Strategist
-- Web3 meme token with a GameFi twist and NFT ecosystem
-- Designed volatility mechanics, NFT staking, and burn events
-- Created narrative, community structure, and reward pools
+**Role**: Web Developer
 
 ### 🌈 [Big Kirby](https://t.me/bigKirby)
-**Role**: Meme Community Builder
-- Created lighthearted Telegram space for Kirby-themed memes and fun
-- Managed content flow, moderation, and event ideas
+**Role**: Meme Community Builder & Web Developer
 
 ---
 
