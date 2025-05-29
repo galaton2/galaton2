@@ -1,80 +1,87 @@
-<img align="right" width="180" src="https://avatars.githubusercontent.com/galaton2" style="border-radius: 20px; box-shadow:0 4px 12px #0003;" />
-
-
- **Hi, I'm Barry! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-
-
-**Web3 Community Architect • TON Evangelist • Telegram Bot Maker
-
----
-
-🌟 **Community-Driven. Product-Oriented. Always shipping!**  
-I lead Web3 communities, automate routine with bots, build bridges between projects and users, and make crypto easy for everyone.
-
----
-
-
-## 🛠️ Skills & Tech
-
-`Community` `Support` `Moderation` `Content`  
-`Python` `JS` `HTML/CSS` `TON Blockchain` `GitHub`  
-`Telegram API` `NFT` `GameFi` `BizDev`
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/galaton2" width="120" style="border-radius:50%;" alt="Barry" />
+</p>
+<h1 align="center">👋 Hi, I'm Barry!</h1>
+<p align="center">
+  <b>Web3 Community Manager · Crypto Support · TON Ecosystem · Full-Stack Web3 Dev · Partnership & Growth</b>
+</p>
+<p align="center">
+  <a href="https://t.me/TgBarry"><img src="https://img.shields.io/badge/Telegram-%40TgBarry-blue?logo=telegram" alt="Telegram"></a>
+  <a href="mailto:galaxyton2@gmail.com"><img src="https://img.shields.io/badge/Email-galaxyton2@gmail.com-red?logo=gmail" alt="Email"></a>
+  <a href="https://github.com/ВАШ_GITHUB"><img src="https://img.shields.io/badge/GitHub-ВАШ_GITHUB-black?logo=github"></a>
+</p>
 
 ---
 
-## 📸 Featured Projects
+## 🧑‍💻 About Me
 
-### <img src="https://raw.githubusercontent.com/YOUR_USERNAME/arion-dbot/main/preview.png" width="32"/> [Arion Dbot](https://t.me/Arion_dbot)
+Web3 and crypto enthusiast, passionate about building powerful communities and automating growth in the TON ecosystem.  
+Mid-level full-stack developer (JS, Python), pro at Telegram bots, GameFi, and support systems.  
+Multilingual, energetic, and always up for launching something new!
+
+---
+
+## 🚀 Experience & Achievements
+
+- **Community Manager & Support Lead**  
+  🔹 Built and scaled Telegram communities for major TON projects (EN & RU)  
+  🔹 Resolved complex user issues, created and maintained FAQ systems  
+  🔹 Launched events, SBT rewards, mini-games, and Play-to-Win mechanics  
+  🔹 Drove partnerships and collaborations, expanding ecosystems  
+  🔹 Automated onboarding and support with custom Telegram bots
+
+---
+
+## 🛠️ Tech Skills
+
+- TON Blockchain · Web3 · Telegram Bots · GameFi · NFT Utilities  
+- JavaScript · Python · HTML/CSS · Git · DBs  
+- Community Management · Support Automation · Content Creation · Partnerships
+
+---
+
+## 🔥 Featured Projects
+
+### [Arion Dbot](https://t.me/Arion_dbot)
 > **Founder & Developer**  
-> Telegram Web3 utility: Buy Telegram Stars, Premium, virtual numbers (TON).  
-> *NFT discounts, admin panel, referral, payment history, blazing-fast UX.*
+Telegram-based Web3 bot for buying Stars, Premium, virtual numbers using TON.  
+Real-time admin panel, NFT discounts, TON payments, referrals, and multilingual support.
 
-![Arion Dbot Preview](https://raw.githubusercontent.com/YOUR_USERNAME/arion-dbot/main/preview.png)
+### [PocketFi Bot](https://t.me/Pocketfi)
+> **Community & Support Specialist**  
+Telegram bot for micro-payments and buying digital goods with TON.  
+Focused on speed, security, and automation.
 
----
-
-### <img src="https://raw.githubusercontent.com/YOUR_USERNAME/pocketfi/main/preview.png" width="32"/> [PocketFi](https://t.me/Pocketfi)
-> **Community Support Lead**  
-> Telegram-first TON wallet & payment tool.  
-> *User onboarding, chat moderation, feedback loop, product improvements.*
-
-![PocketFi Preview](https://raw.githubusercontent.com/YOUR_USERNAME/pocketfi/main/preview.png)
-
----
-
-### <img src="https://raw.githubusercontent.com/YOUR_USERNAME/onton/main/preview.png" width="32"/> [ONTON](https://t.me/ontonlive)
+### [ONTON](https://t.me/ontonlive)
 > **Ecosystem Growth & Community Lead**  
-> Content, P2W mini-games, SBT rewards, partner onboarding, collabs.
+Organized Play-to-Win events, launched mini-games, managed SBT rewards, drove partnerships.
 
-![ONTON Preview](https://raw.githubusercontent.com/YOUR_USERNAME/onton/main/preview.png)
+*(Добавь еще свой ключевой проект или портфолио, если есть — с картинкой!)*
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-- **Scaled Telegram communities to 20k+ users** — managed 5+ groups (EN/RU)
-- **Launched 10+ GameFi events** — 1,000+ users got SBT/NFTs
-- **Integrated TON payments, NFT rewards, multi-language support** into bots
-- **Built automations** — 3x faster support, improved retention
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_GITHUB&show_icons=true&theme=github_dark&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB&layout=compact&theme=github_dark" height="150"/>
+</p>
 
 ---
 
 ## 🌍 Languages
 
-- Russian (native)
-- English (C1)
-- Persian (basic)
-
+- 🇷🇺 Russian (Native)
+- 🇬🇧 English (C1)
 ---
 
-## 📫 Contacts
+## 📫 Contact
 
 - Telegram: [@TgBarry](https://t.me/TgBarry)
-- Email: galaxyton2@gmail.com
+- Email: [galaxyton2@gmail.com](mailto:galaxyton2@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e2d69&height=120&section=footer&text=Let's%20Build%20Web3%20Together!&fontAlign=50&fontAlignY=40"/>
 </p>
-
