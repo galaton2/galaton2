@@ -56,7 +56,7 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Experience
 
 ### 🧩 [PocketFi](https://t.me/Pocketfi)
 **Role**: Community & Tech Support & Moderator
