@@ -32,45 +32,35 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 |:-----------------------|:----------------|:-----------------|
 | • Announcements & updates<br>• Brand voice & memes<br>• Structured posts and guides | • HTML, CSS, JS, Python<br>• Firebase, GitHub, APIs<br>• Simple games & web tools | • Project outreach<br>• Joint campaigns & AMAs<br>• Partner onboarding & cross-community growth |
 
-
 ## 🚀 Experience
 
 ### 🧩 [PocketFi](https://t.me/Pocketfi)
 **Role**: Community & Tech Support & Moderator
 
----
-
 ### 🧠 [TonPunks](https://t.me/tonpunks) / [Punk City](https://t.me/punkton)
 **Role**: Community Manager & Tech Support & Moderator 
-
----
 
 ### 🛰️ [ONTON](https://t.me/ontonlive)
 **Role**: Ecosystem Growth & Community Lead & Partnership Manager
 
 ---
 
-<h1>My Projects</h1>
+## 🛠 My Projects
 
 ### 🔧 [Arion Dbot](https://t.me/Arion_Dbot)
 **Role**: Founder & Developer
 
----
-
 ### 🎮 [Kirby's Magic Land](https://t.me/kirbyflybot)
 **Role**: Game Creator
 
----
-
 ### 🌀 [Glitch](https://fixglitch.xyz/)
 **Role**: Web Developer
-
----
 
 ### 🌈 [Big Kirby](https://t.me/bigKirby)
 **Role**: Meme Community Builder & Web Developer
 
 ---
+
 
 ## 🌐 Languages
 
