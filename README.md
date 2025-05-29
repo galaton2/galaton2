@@ -72,7 +72,8 @@ I’ve led community strategies, automated support using custom Telegram bots, a
 **Role**: Ecosystem Growth & Community Lead & Partnership Manager
 
 ---
-<h1 style="color:#7c46a3;text-align:center;margin:8px 0 0 0">My Projects</h1>
+
+<h1>My Projects</h1>
 
 ### 🔧 [Arion Dbot](https://t.me/Arion_Dbot)
 **Role**: Founder & Developer
