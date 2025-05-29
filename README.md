@@ -5,8 +5,10 @@
 # 👋 Hey, I'm Barry
 
 ### Web3 Community Lead | Telegram Bot Developer | Ecosystem Builder | Support Strategist | Moderator | GameFi Architect | Partnership Manager
+---
 
-
+## MY CV
+https://www.canva.com/design/DAGmrN6jTbk/obarwFW08cEOVR4l8udFMA/edit?utm_content=DAGmrN6jTbk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 ## 🧠 About Me
