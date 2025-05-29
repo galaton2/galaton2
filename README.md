@@ -4,8 +4,7 @@
 
 # 👋 Hey, I'm Barry
 
-### Web3 Community Lead | Telegram Bot Developer | Ecosystem Builder | Support Strategist
-
+### Web3 Community Lead | Telegram Bot Developer | Ecosystem Builder | Support Strategist | Moderator | GameFi Architect | Partnership Manager
 
 
 ---
